@@ -11,7 +11,9 @@ Edit the .env file to change MySQL and WordPress.
 
 ## Usage
 Start: docker-compose up
+
 Stop - docker-compose down
+
 It is available at the URL: http://localhost:8080
 
 
